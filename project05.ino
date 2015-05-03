@@ -28,6 +28,6 @@ void loop() {
   
   myServo.write(angle);
   
-  delay(15arduinoar);
+  delay(15);
 
 }
